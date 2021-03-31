@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **timhyc19/timhyc19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:mortar_board:
+My name's Tim, I'm a first year **Computer Science student at the University of Waterloo**.
+
+:book: 
+Some of my interests in programming are Data Science, Machine Learning, and Full Stack Development. WIthin my github, you'll find several projects related to these fields. 
+
+:palm_tree:
+In my free time, I like to play sports, listen to music, and jam out on my guitar :)
+
