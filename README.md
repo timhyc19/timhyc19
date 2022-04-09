@@ -24,3 +24,4 @@ My second internship was in the nuclear consulting field (Nuclear Promise X), wh
 :palm_tree:
 In my free time, I enjoy participating in basketball intramurals, competing in hackathons ([checkout my devpost!](https://devpost.com/timchung0319)), and [jaming out on my guitar](https://www.youtube.com/watch?v=rJXwrIGC5QA)! c:
 
+💬 Feel free to reach out to me about my experiences, and anything to do with tech!
