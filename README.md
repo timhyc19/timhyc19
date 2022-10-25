@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 :mortar_board:
-My name's Tim, I'm a second year Computer Science student at the University of Waterloo, with experience in Data Science and Machine Learning. 
+My name's Tim, I'm a 3rd year Computer Science student at the University of Waterloo, with experience in Data Science and Machine Learning. 
 
 My first internship was in a government consulting sector (Transport Canada) as a SWE / Data Scientist. I was the lead developer for a time series and regression based software to predict road collision behaviours. My other responsibilities included communicating with clients on weekly deliverables, and collaborating with senior economists / analysts to optimize our solution. 
 
