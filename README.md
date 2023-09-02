@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 :mortar_board:
 My name is Tim, I'm a 3B Computer Science student at the University of Waterloo, with experience in software engineering, data science, and infrastructure development!
 
-♻️ My latest internship was at Ecobee (data platform team) as a Software Engineer. My initial work was assisting in the creation of an ML inference pipeline, and an image annotation application for a smart home camera's CV model (backend work; requests in Python Flask, and database design / connection). I then transitioned into more infrastructure and technical debt work; upgrading GCP services like Composer Clusters, Dataflow Jobs, Airflow DAGS) to production, all using Terraform!
+🧠 Incoming software engineer intern at Cohere!
+
+♻️ My fourth internship was at Ecobee (data platform team) as a Software Engineer. My initial work was assisting in the creation of an ML inference pipeline, and an image annotation application for a smart home camera's CV model (backend work; requests in Python Flask, and database design / connection). I then transitioned into more infrastructure and technical debt work; upgrading GCP services like Composer Clusters, Dataflow Jobs, Airflow DAGS) to production, all using Terraform!
 
 💼 My third internship was at BDO (Lixar Tech Division) as a Data Engineering Consultant. I worked alongside senior data engineers, software engineers, business & QA analysts, and insurance-expert clients to build ETL pipelines that automated the creation of IFRS17 compliant insurance files. Some technologies I used were Python, PySpark, SQL, and Azure Cloud tools (Databricks, Data Factory, Data Lake, etc...).
 
