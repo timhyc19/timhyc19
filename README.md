@@ -19,7 +19,7 @@ My name is Tim, I'm a 4A Computer Science student at the University of Waterloo,
 
 [Here's the link to my website](https://tim-chung.netlify.app/)
 
-🧠 My fifth / sixth internships were at Cohere (foundations team) as a Software Engineer. I started by automating pretraining pipelines for encoding & packing, using Python, GCP APIs, Dataflow and Dataproc. I then joined the foundations team, where I helped process large and complex datasets that were used for base model experiments. I also spearheaded the experimentation for fill-in-middle and researched different pretraining methodologies to improve our base models' coding capabilities. 
+🧠 My fifth / sixth internships were at Cohere AI as a Software Engineer. I started by automating pretraining pipelines for encoding & packing, using Python, GCP APIs, Dataflow and Dataproc. I then joined the foundations team, where I helped process large and complex datasets that were used for base model experiments. I also spearheaded the experimentation for fill-in-middle and researched different pretraining methodologies to improve our base models' coding capabilities. 
 
 ♻️ My fourth internship was at Ecobee (data platform team) as a Software Engineer. My initial work was assisting in the creation of an ML inference pipeline, and an image annotation application for a smart home camera's CV model (backend work; requests in Python Flask, and database design / connection). I then transitioned into more infrastructure and technical debt work; upgrading GCP services like Composer Clusters, Dataflow Jobs, Airflow DAGS to production, all using Python and Terraform!
 
@@ -33,4 +33,4 @@ My name is Tim, I'm a 4A Computer Science student at the University of Waterloo,
 :palm_tree:
 In my free time, I enjoy participating in basketball intramurals, competing in hackathons ([checkout my devpost!](https://devpost.com/timchung0319)), and [jaming out on my guitar](https://www.youtube.com/watch?v=rJXwrIGC5QA)! c:
 
-💬 Currently seeking Winter and Summer 2024 internships. Feel free to reach out to me about my experiences, and anything to do with tech!
+💬 Feel free to reach out to me about my experiences, and anything to do with tech!
