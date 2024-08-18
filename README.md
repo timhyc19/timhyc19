@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 :mortar_board:
-My name is Tim, I'm a 4A Computer Science student at the University of Waterloo, with experience in software engineering, data science, and infrastructure development!
+My name is Tim, I'm a 4B Computer Science student at the University of Waterloo, with experience in software engineering, data science, and infrastructure development!
 
 🖥️ Prev Intern @ cohere, ecobee, BDO, NPX, Transport Canada
 
